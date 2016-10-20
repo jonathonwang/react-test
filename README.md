@@ -1,8 +1,6 @@
 # React Gulp TSX (WIP)
 
-Example repo for the npm package: __[gulp-tasks-scaffold](https://www.npmjs.com/package/gulp-tasks-scaffold)__
-
-Repo for the `gulp-tasks-scaffold` package: __[gulp-tasks-scaffold](https://www.github.com/jonathonwang/gulp-tasks-scaffold)__
+React TSX Playground
 
 ### Install
 
