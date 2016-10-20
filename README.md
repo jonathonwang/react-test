@@ -1,4 +1,4 @@
-# Gulp-Starter (WIP)
+# React Gulp TSX (WIP)
 
 Example repo for the npm package: __[gulp-tasks-scaffold](https://www.npmjs.com/package/gulp-tasks-scaffold)__
 
@@ -11,6 +11,7 @@ Clone this repo and cd into the directory.
 Then run:
 `npm install gulp -g`
 `npm install`
+`typings install`
 
 ---
 

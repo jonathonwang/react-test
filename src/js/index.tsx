@@ -1,5 +1,5 @@
 // ------------------------------------------------------------
-// Weird Thing I dont wanna do but is necessary with TypeScript
+// Weird Thing I dont wanna do but is necessary with TypeScript (As far as I know)
 // assigns the imported jQuery object as jQuery && $ on window.
 import * as jQuery from 'jquery';
 Object.assign(Window.prototype, {
@@ -7,7 +7,7 @@ Object.assign(Window.prototype, {
   $: jQuery
 });
 import 'bootstrap';
-// End Weird Stuff
+// End Weird Bootstrap jQuery Stuff
 // ------------------------------------------------------------
 
 
