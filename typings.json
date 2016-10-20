@@ -1,7 +1,10 @@
 {
   "globalDependencies": {
     "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
-    "jquery": "registry:dt/jquery#1.10.0+20160908203239",
-    "vue": "registry:dt/vue#1.0.21+20160720100422"
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239"
+  },
+  "dependencies": {
+    "react": "registry:npm/react#15.0.1+20160601175240",
+    "react-dom": "registry:npm/react-dom#15.0.1+20160826174104"
   }
 }
