@@ -2,6 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "target": "es6",
+    "jsx": "react",
     "moduleResolution": "node",
     "sourceMap": true,
     "emitDecoratorMetadata": true,
@@ -11,10 +12,11 @@
     "removeComments": true
   },
   "files": [
-    "typings/globals/vue/index.d.ts",
     "typings/globals/jquery/index.d.ts",
     "typings/globals/bootstrap/index.d.ts",
-    "src/js/example.ts"
+    "typings/modules/react/index.d.ts",
+    "typings/modules/react-dom/index.d.ts",
+    "src/js/index.tsx"
   ],
   "exclude": [
     "node_modules/*",
